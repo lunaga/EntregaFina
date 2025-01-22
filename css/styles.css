@@ -382,6 +382,13 @@ h2 {
     gap: 1.5rem;
 }
 
+img {
+    align-items: center;
+    border-radius: 25rem ;
+    width: 30rem;
+    padding: 2rem;
+}
+
 .form-group {
     display: flex;
     flex-direction: column;
